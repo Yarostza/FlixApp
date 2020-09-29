@@ -14,7 +14,7 @@
 		544E0AE025239AA6008214DD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 544E0ADE25239AA6008214DD /* LaunchScreen.storyboard */; };
 		544E0AEB25239AA7008214DD /* flixsterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544E0AEA25239AA7008214DD /* flixsterTests.swift */; };
 		544E0AF625239AA7008214DD /* flixsterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544E0AF525239AA7008214DD /* flixsterUITests.swift */; };
-		544E0B0A25239CEA008214DD /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544E0B0925239CEA008214DD /* MoviesViewController.swift */; };
+		544E0B182523A283008214DD /* MoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 544E0B172523A283008214DD /* MoviesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,7 +48,7 @@
 		544E0AF125239AA7008214DD /* flixsterUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = flixsterUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		544E0AF525239AA7008214DD /* flixsterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = flixsterUITests.swift; sourceTree = "<group>"; };
 		544E0AF725239AA7008214DD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		544E0B0925239CEA008214DD /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
+		544E0B172523A283008214DD /* MoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MoviesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,7 +105,7 @@
 				544E0ADC25239AA6008214DD /* Assets.xcassets */,
 				544E0ADE25239AA6008214DD /* LaunchScreen.storyboard */,
 				544E0AE125239AA6008214DD /* Info.plist */,
-				544E0B0925239CEA008214DD /* MoviesViewController.swift */,
+				544E0B172523A283008214DD /* MoviesViewController.swift */,
 			);
 			path = flixster;
 			sourceTree = "<group>";
@@ -260,7 +260,7 @@
 			files = (
 				544E0AD425239AA4008214DD /* AppDelegate.swift in Sources */,
 				544E0AD625239AA4008214DD /* SceneDelegate.swift in Sources */,
-				544E0B0A25239CEA008214DD /* MoviesViewController.swift in Sources */,
+				544E0B182523A283008214DD /* MoviesViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
