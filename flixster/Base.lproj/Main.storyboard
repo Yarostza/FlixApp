@@ -26,10 +26,10 @@
             </objects>
             <point key="canvasLocation" x="141" y="-1216"/>
         </scene>
-        <!--View Controller-->
+        <!--Movie Grid View Controller-->
         <scene sceneID="VbR-1S-Tb8">
             <objects>
-                <viewController id="edb-GK-hUg" sceneMemberID="viewController">
+                <viewController id="edb-GK-hUg" customClass="MovieGridViewController" customModule="flixster" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="Npu-l0-yqG">
                         <rect key="frame" x="0.0" y="0.0" width="414" height="736"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
